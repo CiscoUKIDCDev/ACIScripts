@@ -19,7 +19,7 @@ Required
 
 Clone the repository
 
-    git clone https://github.com/datacenter/acitoolkit.git
+    git clone https://github.com/CiscoUKIDCDev/ACIScripts.git
 
 # Scripts
 | Name          | Description             |

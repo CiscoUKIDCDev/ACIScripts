@@ -25,5 +25,5 @@ Clone the repository
 | Name          | Description             |
 | ------------- |:-------------:| -----:|
 | credentials.py  | Contains the login details and some other variables used by the other scripts |
-| clone_tenant.py | Script for managing tenants, this will allow users to clone Tenant config on APIC, pushing to github etc. |
+| tenant.py | Script for managing tenants, this will allow users to clone Tenant config on APIC, pushing to github etc. |
 | push_or_pull_github.py | Pushing and Pulling APIC config to GutHub |

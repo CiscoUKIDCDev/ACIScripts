@@ -23,4 +23,4 @@ Temporary Items
 
 # Extras to exclude
 credentials.py
-credentials.py
+*.pyc
